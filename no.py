@@ -13,7 +13,7 @@ for i in range(n):
     if op_list[0] == 'mul':
         for j in range(1,len(op_list)):
             mul = mul * int(op_list[j])
-        print(mul)    
+        print(mul)
 
 
 
